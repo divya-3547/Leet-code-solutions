@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/divya-3547/Leet-code-solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/divya-3547/Leet-code-solutions/tree/master/1486-xor-operation-in-an-array) |
 | [2235-add-two-integers](https://github.com/divya-3547/Leet-code-solutions/tree/master/2235-add-two-integers) |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/divya-3547/Leet-code-solutions/tree/master/2520-count-the-digits-that-divide-a-number) |
 ## String
 |  |
 | ------- |
